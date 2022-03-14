@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# CryptoTracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CryptoTracker is a web application that consumes Coingecko API and displays several cryptocurrencies with their specific fields like its current price and percentage of price change in last 24 hour. User can even search for any cryptocurrency for checking its price.
+
+## Screenshot
+![cryptoTracker](https://user-images.githubusercontent.com/54017876/149571949-f24b41ec-819e-4777-9564-6fa847432f6e.png)
+
 
 ## Available Scripts
 
